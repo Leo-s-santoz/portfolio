@@ -170,15 +170,12 @@ font-size: 1.5rem;
     }
 
     .apresentacao_links{
-        padding: 10%;
-    }
-
-    .apresentacao_links_botao{
-        width: 100%;
+        padding: 5%;
     }
 
     .apresentacao_imagem{
-        width: 100%;
+        width: 90%;
+        height: fit-content;
     }
 
     .rodape{
