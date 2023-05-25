@@ -156,10 +156,6 @@ font-size: 1.5rem;
         flex-direction: column-reverse;
     }
 
-    .apresentacao_conteudo{
-        padding: 5%;
-    }
-
     .apresentacao_conteudo_titulo{
         font-size: 1.7rem;
     }
