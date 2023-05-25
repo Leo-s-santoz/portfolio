@@ -154,7 +154,7 @@ font-size: 1.5rem;
 
     .apresentacao{
         flex-direction: column-reverse;
-        padding: 7%;
+        padding: 10%;
     }
 
     .apresentacao_conteudo{
@@ -162,20 +162,19 @@ font-size: 1.5rem;
     }
 
     .apresentacao_conteudo_titulo{
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     .apresentacao_conteudo_texto{
-        font-size: 1.25rem;
+        font-size: 1rem;
+    }
+
+    .apresentacao_links{
+        padding: 10%;
     }
 
     .apresentacao_links_botao{
-        width: 23rem;
-    }
-
-    .apresentacao_imagem{
-        width: 25rem;
-        height: 25rem;
+        width: 40%;
     }
 
     .rodape{
