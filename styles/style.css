@@ -162,20 +162,19 @@ font-size: 1.5rem;
     }
 
     .apresentacao_conteudo_titulo{
-        font-size: 1.8rem;
+        font-size: 1.7rem;
     }
 
     .apresentacao_conteudo_texto{
-        font-size: 1.25rem;
+        font-size: 1.1rem;
     }
 
     .apresentacao_links{
-        padding: 5%;
+        padding: 10%;
     }
 
     .apresentacao_imagem{
-        width: 90%;
-        height: fit-content;
+        width: 18.7;
     }
 
     .rodape{
